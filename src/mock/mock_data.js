@@ -147,7 +147,7 @@ export const mockData = {
       "id": "dev-tools",
       "name": "开发工具",
       "icon": "🛠️",
-      "order": 3,
+      "order": 10,
       "sites": [
         {
           "id": "github",
@@ -412,7 +412,7 @@ export const mockData = {
       "id": "entertainment",
       "name": "娱乐休闲",
       "icon": "🎮",
-      "order": 8,
+      "order": 3,
       "sites": [
         {
           "id": "bilibili",
@@ -448,7 +448,7 @@ export const mockData = {
       "id": "office",
       "name": "办公协作",
       "icon": "💼",
-      "order": 9,
+      "order": 2,
       "sites": [
         {
           "id": "notion",
@@ -481,7 +481,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "猫猫导航",
-  "search": "bing",
-  "_fileSha": "cf9e9f1ad8644add6c0918786cae6707de255aaf"
+  "title": "猫猫导航"
 }
