@@ -33,6 +33,13 @@ export const mockData = {
           "url": "https://github.com",
           "description": "代码托管平台",
           "icon": "/sitelogo/github.com.ico"
+        },
+        {
+          "id": "site-1756979537135",
+          "name": "公众号",
+          "url": "https://mp.weixin.qq.com/",
+          "description": "微信公众平台",
+          "icon": "https://raw.githubusercontent.com/songmory/pic/master/55f6281e3b724382832d103202a59fa2(1).png"
         }
       ]
     },
