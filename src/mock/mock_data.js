@@ -33,13 +33,6 @@ export const mockData = {
           "url": "https://github.com",
           "description": "代码托管平台",
           "icon": "/sitelogo/github.com.ico"
-        },
-        {
-          "id": "site-1756958108772",
-          "name": "Yue's blog",
-          "url": "https://blog.334486.xyz/",
-          "description": "额滴个人博客",
-          "icon": "https://www.notion.so/image/attachment%3Acb65c4c5-4c7e-4d9d-a287-2d28393a8da3%3A20201128135039_66998.jpg?table=collection&id=2629d15e-61c4-8187-97ba-000b931635b2&t=2629d15e-61c4-8187-97ba-000b931635b2"
         }
       ]
     },
@@ -234,6 +227,13 @@ export const mockData = {
           "url": "https://www.52pojie.cn/",
           "description": "软件安全与破解技术论坛",
           "icon": "/sitelogo/www.52pojie.cn.ico"
+        },
+        {
+          "id": "site-1756972588891",
+          "name": "奶昔论坛",
+          "url": "https://forum.naixi.net/",
+          "description": "一个转型为eSIM集卡社区的论坛",
+          "icon": "https://forum.naixi.net/template/discuz_theme_n7/image/logo.png"
         }
       ]
     },
