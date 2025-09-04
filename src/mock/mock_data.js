@@ -33,6 +33,13 @@ export const mockData = {
           "url": "https://github.com",
           "description": "代码托管平台",
           "icon": "/sitelogo/github.com.ico"
+        },
+        {
+          "id": "site-1756958108772",
+          "name": "Yue's blog",
+          "url": "https://blog.334486.xyz/",
+          "description": "额滴个人博客",
+          "icon": "https://www.notion.so/image/attachment%3Acb65c4c5-4c7e-4d9d-a287-2d28393a8da3%3A20201128135039_66998.jpg?table=collection&id=2629d15e-61c4-8187-97ba-000b931635b2&t=2629d15e-61c4-8187-97ba-000b931635b2"
         }
       ]
     },
@@ -481,7 +488,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "Yue's 导航",
-  "_fileSha": "be2ca1ebd7f6480ebeef7a819493b4e16e4e76ef",
-  "search": "baidu"
+  "title": "Yue's 导航"
 }
