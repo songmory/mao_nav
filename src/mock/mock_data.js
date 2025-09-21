@@ -33,13 +33,6 @@ export const mockData = {
           "url": "https://mp.weixin.qq.com/",
           "description": "微信公众平台",
           "icon": "https://raw.githubusercontent.com/songmory/pic/master/55f6281e3b724382832d103202a59fa2(1).png"
-        },
-        {
-          "id": "site-1758440705950",
-          "name": "AFUN",
-          "url": "https://www.ptlover.cc/",
-          "description": "一个创立不久的Pt站",
-          "icon": "https://www.ptlover.cc/pic/afun_logo.png"
         }
       ]
     },
