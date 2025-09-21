@@ -7,13 +7,6 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
-          "id": "site-1752857783656",
-          "name": "OpenAI",
-          "url": "https://chatgpt.com",
-          "description": "OpenAI,好用👌",
-          "icon": "/sitelogo/chatgpt.com.ico"
-        },
-        {
           "id": "linux-do",
           "name": "Linux.do",
           "url": "https://linux.do",
@@ -40,6 +33,13 @@ export const mockData = {
           "url": "https://mp.weixin.qq.com/",
           "description": "微信公众平台",
           "icon": "https://raw.githubusercontent.com/songmory/pic/master/55f6281e3b724382832d103202a59fa2(1).png"
+        },
+        {
+          "id": "site-1758440705950",
+          "name": "AFUN",
+          "url": "https://www.ptlover.cc/",
+          "description": "一个创立不久的Pt站",
+          "icon": "https://www.ptlover.cc/pic/afun_logo.png"
         }
       ]
     },
@@ -83,6 +83,13 @@ export const mockData = {
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
           "icon": "/sitelogo/cursor.sh.ico"
+        },
+        {
+          "id": "site-1752857783656",
+          "name": "OpenAI",
+          "url": "https://chatgpt.com",
+          "description": "OpenAI,好用👌",
+          "icon": "/sitelogo/chatgpt.com.ico"
         }
       ]
     },
@@ -495,7 +502,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "Yue's 导航",
-  "_fileSha": "a32d1d26aaa27c5f7b9b3782228bfd611a892db8",
-  "search": "baidu"
+  "title": "Yue's 导航"
 }
